@@ -1,11 +1,24 @@
-# اینفوگرافیک کاهش جمعیت
+# 👪 Population Decline Infographic
 
-این اینفوگرافیک با هدف آگاهی‌بخشی درباره پیامدهای کاهش جمعیت طراحی شده است.  
+An infographic designed to illustrate the issue of population decline and its possible consequences for society.  
 
-ویژگی‌ها:
-- موضوع اجتماعی–فرهنگی
-- استفاده از آیکون‌ها و طراحی کارتونی برای انتقال ساده‌ی پیام
-- رنگ‌بندی روشن برای ایجاد جذابیت در موضوعی جدی
+---
 
- این طرح به‌عنوان نمونه‌ی آموزشی–فرهنگی طراحی شده است.
+## 🏆 Achievement
+- 1st place at the **county competition**
 
+---
+
+## 🎨 Tools
+- Adobe Illustrator
+
+---
+
+## 📝 Notes
+- This infographic was created for a competition.  
+- Shared here as part of portfolio work.  
+
+---
+
+## 📄 License
+This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) - see the [LICENSE](../LICENSE) file for details.
